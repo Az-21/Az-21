@@ -23,6 +23,7 @@ I got into graphic design because of my love for flags. Simple flags inspired me
 ![Flutter](https://img.shields.io/badge/SDK-Flutter-1EB5F5?style=flat-square&logo=flutter&logoColor=fff)
 ![Firebase](https://img.shields.io/badge/DEV-Firebase-FFCB2D?style=flat-square&logo=firebase&logoColor=fff)
 ![.NET](https://img.shields.io/badge/Framework-.NET-512BD4?style=flat-square&logo=.net&logoColor=fff)
+
 ![Numpy](https://img.shields.io/badge/import-numpy-4BA6C9?style=flat-square&logo=numpy&logoColor=fff)
 ![Pandas](https://img.shields.io/badge/import-pandas-E00484?style=flat-square&logo=pandas&logoColor=fff)
 ![SciKitLearn](https://img.shields.io/badge/import-scikit%20learn-F09437?style=flat-square&logo=scikit-learn&logoColor=fff)
@@ -33,6 +34,7 @@ I got into graphic design because of my love for flags. Simple flags inspired me
 ![Tailwind](https://img.shields.io/badge/Library-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind%20css)
 ![MS Edge](https://img.shields.io/badge/Debug-MS%20Edge-3AC769?style=flat-square&logo=microsoft%20edge)
 ![Vercel](https://img.shields.io/badge/Deploy-Vercel-302F2F?style=flat-square&logo=vercel)
+
 ![Vue3](https://img.shields.io/badge/Framework-Vue-3FB27F?style=flat-square&logo=vue.js)
 ![GitHub Pages](https://img.shields.io/badge/Deploy-Github%20Pages-302F2F?style=flat-square&logo=github)
 ![Netlify](https://img.shields.io/badge/Deploy-Netlify-31B5BA?style=flat-square&logo=netlify)
