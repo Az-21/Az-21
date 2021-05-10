@@ -4,13 +4,13 @@ Welcome to my page!
 
 I got into graphic design because of my love for flags. Simple flags led to animations, minimial fanart, and eventually frontend. Frontend snowballed into learning JS framworks and eventually the strongly typed languages. 
 
-#### Graphic Design
+### Graphic Design
 ![Illustrator](https://img.shields.io/badge/Vector-Illustrator-FF9A00?style=flat-square&logo=adobe%20illustrator)
 ![Photoshop](https://img.shields.io/badge/Raster-Photoshop-31A8FF?style=flat-square&logo=adobe%20photoshop)
 ![Premiere](https://img.shields.io/badge/Video-Premiere%20Pro-9999FF?style=flat-square&logo=adobe%20premiere%20pro)
 ![After Effects](https://img.shields.io/badge/Animate-After%20Effects-9999FF?style=flat-square&logo=adobe%20after%20effects)
 
-#### Languages
+### Languages
 ![C#](https://img.shields.io/badge/Lang-C%20Sharp-95478E?style=flat-square&logo=c%20sharp&logoColor=fff)
 ![Dart](https://img.shields.io/badge/Lang-Dart-1EB5F5?style=flat-square&logo=dart&logoColor=fff)
 ![Typescript](https://img.shields.io/badge/Lang-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
@@ -19,17 +19,12 @@ I got into graphic design because of my love for flags. Simple flags led to anim
 ![Java](https://img.shields.io/badge/Lang-Java-007396?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/Lang-C++-005597?style=flat-square&logo=c%2B%2B&logoColor=fff)
 
-#### Dev Tools
+### Dev Tools
 ![Flutter](https://img.shields.io/badge/SDK-Flutter-1EB5F5?style=flat-square&logo=flutter&logoColor=fff)
 ![Firebase](https://img.shields.io/badge/DEV-Firebase-FFCB2D?style=flat-square&logo=firebase&logoColor=fff)
 ![.NET](https://img.shields.io/badge/Framework-.NET-512BD4?style=flat-square&logo=.net&logoColor=fff)
 
-![Numpy](https://img.shields.io/badge/import-numpy-4BA6C9?style=flat-square&logo=numpy&logoColor=fff)
-![Pandas](https://img.shields.io/badge/import-pandas-E00484?style=flat-square&logo=pandas&logoColor=fff)
-![SciKitLearn](https://img.shields.io/badge/import-scikit%20learn-F09437?style=flat-square&logo=scikit-learn&logoColor=fff)
-![Matplotlip](https://img.shields.io/badge/import-matplotlib-105278?style=flat-square&logo=plotly&logoColor=fff)
-
-#### Web Technologies
+### Web Technologies
 ![Svelte](https://img.shields.io/badge/Framework-Svelte-F73C00?style=flat-square&logo=svelte)
 ![Tailwind](https://img.shields.io/badge/Library-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind%20css)
 ![MS Edge](https://img.shields.io/badge/Debug-MS%20Edge-3AC769?style=flat-square&logo=microsoft%20edge)
