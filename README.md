@@ -2,7 +2,7 @@
 
 Welcome to my page!
 
-I got into graphic design because of my love for flags. Simple flags inspired me to make animations, website designs, and minimial fanart. Website design required the use of JavaScript and jQuery (RIP) which inspired me to learn more programming languages and frameworks.
+I got into graphic design because of my love for flags. Simple flags led to animations, minimial fanart, and eventually frontend. Frontend snowballed into learning JS framworks and eventually the strongly typed languages. 
 
 #### Graphic Design
 ![Illustrator](https://img.shields.io/badge/Vector-Illustrator-FF9A00?style=flat-square&logo=adobe%20illustrator)
