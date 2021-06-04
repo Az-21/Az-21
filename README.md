@@ -45,9 +45,20 @@ I got into graphic design because of my love for flags. Simple flags led to anim
 
 # 🎴 Stats
 
+[![Top Languages](https://github-readme-stats-az-21.vercel.app/api/top-langs/?username=Az-21&hide=jupyter%20notebook&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/Az-21/github-readme-stats)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAz-21%2F&count_bg=%2379C83D&title_bg=%23555555&icon=reverbnation.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![GitHub Stats](https://github-readme-stats-az-21.vercel.app/api?username=Az-21&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Az-21/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats-az-21.vercel.app//api/top-langs/?username=Az-21&hide=jupyter%20notebook&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[![GitHub Stats](https://github-readme-stats-az-21.vercel.app//api?username=Az-21&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+✨ Dynamic content in this readme was made possible by
+
+* [vercel](https://github.com/vercel/vercel)
+* [Spotify integration by novatorem](https://github.com/novatorem/novatorem)
+* [Readme stats by anuraghazra](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🌸 Repo Pins
+
+[![Readme stats by anuraghazra](https://github-readme-stats-az-21.vercel.app/api/pin/?username=Az-21&repo=flutter-snippets&theme=tokyonight)](https://github.com/Az-21/flutter-snippets)
