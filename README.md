@@ -42,3 +42,12 @@ I got into graphic design because of my love for flags. Simple flags led to anim
 ![HTML](https://img.shields.io/badge/Markup-HTML-E96228?style=flat-square&logo=html5)
 ![Bootstrap](https://img.shields.io/badge/Library-Bootstrap-533B78?style=flat-square&logo=bootstrap&logoColor=fff)
 ![CSS](https://img.shields.io/badge/Style-CSS-2862E9?style=flat-square&logo=css3&logoColor=3595CF)
+
+# 🎴 Stats
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAz-21%2F&count_bg=%2379C83D&title_bg=%23555555&icon=reverbnation.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+[![Top Languages](https://github-readme-stats-az-21.vercel.app//api/top-langs/?username=Az-21&hide=jupyter%20notebook&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Stats](https://github-readme-stats-az-21.vercel.app//api?username=Az-21&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
