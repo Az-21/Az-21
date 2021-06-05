@@ -51,11 +51,7 @@ I got into graphic design because of my love for flags. Simple flags led to anim
 
 ---
 
-✨ Dynamic content in this readme was made possible by
-
-* [vercel](https://github.com/vercel/vercel)
-* [Spotify integration by novatorem](https://github.com/novatorem/novatorem)
-* [Readme stats by anuraghazra](https://github.com/anuraghazra/github-readme-stats)
+✨ Dynamic content in this readme was made possible by [vercel](https://github.com/vercel/vercel) | [novatorem](https://github.com/novatorem/novatorem) | [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
