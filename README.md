@@ -51,8 +51,6 @@ I got into graphic design because of my love for flags. Simple flags led to anim
 
 ✨ Dynamic content in this readme was made possible by [vercel](https://github.com/vercel/vercel) | [novatorem](https://github.com/novatorem/novatorem) | [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
----
-
 # 🌸 Repo Pins
 
 [![Readme stats by anuraghazra](https://github-readme-stats-az-21.vercel.app/api/pin/?username=Az-21&repo=flutter-snippets&theme=tokyonight)](https://github.com/Az-21/flutter-snippets)
