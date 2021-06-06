@@ -16,7 +16,6 @@
 ![C](https://img.shields.io/badge/Lang-C-005597?style=for-the-badge&logo=c&logoColor=fff)
 ![Java](https://img.shields.io/badge/Lang-Java-007396?style=for-the-badge&logo=java&logoColor=fff)
 ![C++](https://img.shields.io/badge/Lang-C++-005597?style=for-the-badge&logo=c%2B%2B&logoColor=fff)
-
 ![Flutter](https://img.shields.io/badge/SDK-Flutter-1EB5F5?style=for-the-badge&logo=flutter&logoColor=fff)
 ![Firebase](https://img.shields.io/badge/DEV-Firebase-FFCB2D?style=for-the-badge&logo=firebase&logoColor=fff)
 ![.NET](https://img.shields.io/badge/Framework-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=fff)
