@@ -25,8 +25,7 @@
 ![Tailwind](https://img.shields.io/badge/Library-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind%20css)
 ![MS Edge](https://img.shields.io/badge/Debug-MS%20Edge-3AC769?style=flat-square&logo=microsoft%20edge)
 ![Vercel](https://img.shields.io/badge/Deploy-Vercel-302F2F?style=flat-square&logo=vercel)
-
-![Vue3](https://img.shields.io/badge/Framework-Vue-3FB27F?style=flat-square&logo=vue.js)
+![Vue3](https://img.shields.io/badge/Framework-Vue-3FB27F?style=flat-square&logo=vuetify)
 ![GitHub Pages](https://img.shields.io/badge/Deploy-Github%20Pages-302F2F?style=flat-square&logo=github)
 ![Netlify](https://img.shields.io/badge/Deploy-Netlify-31B5BA?style=flat-square&logo=netlify)
 ![HTML](https://img.shields.io/badge/Markup-HTML-E96228?style=flat-square&logo=html5)
