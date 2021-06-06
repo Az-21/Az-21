@@ -2,9 +2,7 @@
 
 [![Spotify](https://novatorem-az-21.vercel.app/api/spotify)](https://open.spotify.com/user/Az21)
 
-# ⛩ My Journey
-
-I got into graphic design because of my love for flags. Simple flags led to animations, minimal fanart, and eventually frontend. Frontend snowballed into learning JS frameworks and eventually the strongly typed languages.
+# ⛩ Toolset
 
 ### Graphic Design
 
