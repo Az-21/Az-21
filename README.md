@@ -42,4 +42,4 @@
 # 🌸 Repo Pins
 
 [![Flutter Snippets](https://github-readme-stats-az-21.vercel.app/api/pin/?username=Az-21&repo=flutter-snippets&theme=dark)](https://github.com/Az-21/flutter-snippets)
-[![DFT Calculator](https://github-readme-stats-az-21.vercel.app/api/pin/?username=Az-21&repo=flutter-snippets&theme=dark)](https://github.com/Az-21/dft)
+[![DFT Calculator](https://github-readme-stats-az-21.vercel.app/api/pin/?username=Az-21&repo=dft&theme=dark)](https://github.com/Az-21/dft)
