@@ -4,10 +4,14 @@
 
 # 🚀 Toolset
 
+## 🎨 Graphic Design
+
 ![Illustrator](https://img.shields.io/badge/Vector-Illustrator-1a1a1a?style=for-the-badge&logo=adobe%20illustrator)
 ![Photoshop](https://img.shields.io/badge/Raster-Photoshop-1a1a1a?style=for-the-badge&logo=adobe%20photoshop)
 ![Premiere](https://img.shields.io/badge/Video-Premiere%20Pro-1a1a1a?style=for-the-badge&logo=adobe%20premiere%20pro)
 ![After Effects](https://img.shields.io/badge/Animate-After%20Effects-1a1a1a?style=for-the-badge&logo=adobe%20after%20effects)
+
+## 🧑‍💻 AppDev
 
 ![C#](https://img.shields.io/badge/Lang-C%20Sharp-1a1a1a?style=for-the-badge&logo=c%20sharp&logoColor=AB97D2)
 ![Dart](https://img.shields.io/badge/Lang-Dart-1a1a1a?style=for-the-badge&logo=dart&logoColor=31A8FF)
@@ -16,6 +20,8 @@
 ![Flutter](https://img.shields.io/badge/SDK-Flutter-1a1a1a?style=for-the-badge&logo=flutter&logoColor=31A8FF)
 ![Firebase](https://img.shields.io/badge/DEV-Firebase-1a1a1a?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 ![.NET](https://img.shields.io/badge/Framework-.NET-1a1a1a?style=for-the-badge&logo=dot%20net&logoColor=AB97D2)
+
+## 🖥️ WebDev
 
 ![Svelte](https://img.shields.io/badge/Framework-Svelte-1a1a1a?style=for-the-badge&logo=svelte)
 ![Tailwind](https://img.shields.io/badge/Library-Tailwind%20CSS-1a1a1a?style=for-the-badge&logo=tailwind%20css)
