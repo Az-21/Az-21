@@ -30,7 +30,7 @@
 
 # 🎴 Stats
 
-[![Top Languages](https://github-readme-stats-az-21.vercel.app/api/top-langs/?username=Az-21&hide=jupyter%20notebook&langs_count=8&layout=compact&theme=dark)](https://github.com/Az-21/github-readme-stats)
+[![Top Languages](https://github-readme-stats-az-21.vercel.app/api/top-langs/?username=Az-21&hide=jupyter%20notebook&exclude_repo=universal-health-card&langs_count=10&layout=compact&theme=dark)](https://github.com/Az-21/github-readme-stats)
 
 [![GitHub Stats](https://github-readme-stats-az-21.vercel.app/api?username=Az-21&count_private=true&show_icons=true&theme=dark)](https://github.com/Az-21/github-readme-stats)
 
