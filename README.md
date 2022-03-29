@@ -33,10 +33,3 @@
 [![Top Languages](https://github-readme-stats-az-21.vercel.app/api/top-langs/?username=Az-21&hide=jupyter%20notebook&exclude_repo=universal-health-card&langs_count=10&layout=compact&theme=dark)](https://github.com/Az-21/github-readme-stats)
 
 [![GitHub Stats](https://github-readme-stats-az-21.vercel.app/api?username=Az-21&count_private=true&show_icons=true&theme=dark)](https://github.com/Az-21/github-readme-stats)
-
-✨ Dynamic content in this readme was made possible by [vercel](https://github.com/vercel/vercel) | [novatorem](https://github.com/novatorem/novatorem) | [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-
-# 🌸 Repo Pins
-
-[![Flutter Snippets](https://github-readme-stats-az-21.vercel.app/api/pin/?username=Az-21&repo=flutter-snippets&theme=dark)](https://github.com/Az-21/flutter-snippets)
-[![DFT Calculator](https://github-readme-stats-az-21.vercel.app/api/pin/?username=Az-21&repo=dft&theme=dark)](https://github.com/Az-21/dft)
