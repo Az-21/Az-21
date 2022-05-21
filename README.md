@@ -2,6 +2,10 @@
 
 [![Spotify](https://novatorem-az-21.vercel.app/api/spotify)](https://open.spotify.com/user/j22z1750uo9xjgyl8vmic8ma1)
 
+## Website
+
+**[🦊 Az-21 / Kitsune](https://az-21.github.io/kitsune/)**
+
 ## Tech
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -28,7 +32,6 @@
 ![Comsol](https://img.shields.io/badge/Comsol-%23668944.svg?style=for-the-badge&logo=atom&logoColor=white)
 ![LTspice](https://img.shields.io/badge/LTspice-%2388109C.svg?style=for-the-badge&logo=atom&logoColor=white)
 
-
 ## Art and Design
 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
@@ -42,7 +45,6 @@
 ## Currently Learning
 
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
-
 
 ## Public Profiles ↪
 
